@@ -20,4 +20,5 @@ dotfiles/
 ├── kde/         # KDE Plasma configuration (themes, window rules, appearance)
 ├── kitty/       # Kitty terminal configuration (theme, font, behavior)
 ├── neofetch/    # Neofetch display config (colors, OS logo, info)
+├── images/      # Desktop Images Sample
 └── README.md
