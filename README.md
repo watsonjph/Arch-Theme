@@ -9,7 +9,7 @@
 
 ## 📸 Preview
 
-![Desktop Screenshot](images/desktop.jpeg)
+![Desktop Screenshot](images/desktop.png)
 
 ---
 
