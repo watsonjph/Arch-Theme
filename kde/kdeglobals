@@ -1,0 +1,159 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=48, 52, 70
+ColorAmount=0.30000000000000004
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=
+IntensityAmount=-1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=48, 52, 70
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=186,187,241
+BackgroundNormal=65, 69, 89
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=165, 173, 206
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=198, 208, 245
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[Colors:Complementary]
+BackgroundAlternate=35, 38, 52
+BackgroundNormal=41, 44, 60
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=165, 173, 206
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=198, 208, 245
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[Colors:Header]
+BackgroundAlternate=35, 38, 52
+BackgroundNormal=41, 44, 60
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=165, 173, 206
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=198, 208, 245
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[Colors:Selection]
+BackgroundAlternate=186,187,241
+BackgroundNormal=186,187,241
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=41, 44, 60
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=35, 38, 52
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[Colors:Tooltip]
+BackgroundAlternate=27,25,35
+BackgroundNormal=48, 52, 70
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=165, 173, 206
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=198, 208, 245
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[Colors:View]
+BackgroundAlternate=41, 44, 60
+BackgroundNormal=48, 52, 70
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=165, 173, 206
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=198, 208, 245
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[Colors:Window]
+BackgroundAlternate=35, 38, 52
+BackgroundNormal=41, 44, 60
+DecorationFocus=186,187,241
+DecorationHover=65, 69, 89
+ForegroundActive=239, 159, 118
+ForegroundInactive=165, 173, 206
+ForegroundLink=186,187,241
+ForegroundNegative=231, 130, 132
+ForegroundNeutral=229, 200, 144
+ForegroundNormal=198, 208, 245
+ForegroundPositive=166, 209, 137
+ForegroundVisited=202, 158, 230
+
+[DirSelect Dialog]
+DirSelectDialog Size=1720,720
+History Items[$e]=file:$HOME/Documents/Watson,file:///opt/lampp/htdocs,file:$HOME/WebDev,file:$HOME/WebDev,file:$HOME/.steam/steam/
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+BrowserApplication=google-chrome.desktop
+ColorSchemeHash=843b306e617457e5af1cf23785a2e69cb9e6ebf5
+
+[KDE]
+LookAndFeelPackage=Catppuccin-Frappe-Lavender
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[WM]
+activeBackground=48,52,70
+activeBlend=198,208,245
+activeForeground=198,208,245
+inactiveBackground=35,38,52
+inactiveBlend=165,173,206
+inactiveForeground=165,173,206
